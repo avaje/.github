@@ -4,7 +4,7 @@
 
 Avaje is a set of Java libraries for building microservices. 
 
-Most use annotation processing to make them exceptionally light (all of the following libraries combined barely take up 0.5MB), and most importantly, _**reflection-free**_.
+Most use annotation processing to make them exceptionally light (the effective size of all the following libraries combined barely take up 0.5MB), and most importantly, _**reflection-free**_.
 
 - [avaje-config](https://github.com/avaje/avaje-config) (Configuration for applications)
 - [avaje-inject](https://github.com/avaje/avaje-inject) (Compile-time Dependency Injection)
