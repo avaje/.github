@@ -1,7 +1,30 @@
-![Alt text](/profile/logo.svg "Optional title")
 
-[![Chat at https://discord.gg/Qcqf9R27BR](https://img.shields.io/badge/chat-on%20Discord-%234cb697)](https://discord.gg/Qcqf9R27BR)
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+<a name="readme-top"></a>
+
+<div align="center">
+
+
+  <!--Logo-->
+  <a href="https://github.com/avaje">
+    <img src="/profile/logo.svg" alt="Logo" width="70%">
+  </a>
+
+  <!--Title-->
+  <h3 align="center">Compile-time libraries for JVM microservices</h3>
+
+  <a href="https://avaje.io" style="margin: 1em"><strong>View the documentation →</strong></a>
+
+  <!--License badge-->
+  <a href="https://github.com/javalin/javalin/blob/master/LICENSE">
+    <img alt="Static Badge" src="https://img.shields.io/badge/License-Apache_2.0-blue">
+  </a>
+  <!--Discord badge-->
+  <a href="https://discord.gg/Qcqf9R27BR">
+    <img alt="Discord Link" src="https://img.shields.io/badge/discord-avaje-blue?logo=discord&logoColor=white">
+  </a>
+</div>
+
+# 
 
 Avaje is a set of Java libraries for building microservices. 
 
