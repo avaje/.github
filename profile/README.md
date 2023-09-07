@@ -1,4 +1,5 @@
-# Avaje JVM Libraries
+![Alt text](/profile/logo.svg "Optional title")
+
 [![Chat at https://discord.gg/Qcqf9R27BR](https://img.shields.io/badge/chat-on%20Discord-%234cb697)](https://discord.gg/Qcqf9R27BR)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
