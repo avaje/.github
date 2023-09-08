@@ -6,7 +6,7 @@
 
   <!--Logo-->
   <a href="https://github.com/avaje">
-    <img src="/profile/logo.svg" alt="Logo" width="50%">
+    <img src="/profile/logo.svg" alt="Logo" width="40%">
   </a>
 
   <!--Title-->
