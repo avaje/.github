@@ -10,7 +10,7 @@
   </a>
 
   <!--Title-->
-  <h3 align="center">Compile-time libraries for JVM microservices</h3>
+  <h3 align="center">Compile-time libraries for JVM applications</h3>
 
   <a href="https://avaje.io" style="margin: 1em"><strong>View the documentation →</strong></a>
 
