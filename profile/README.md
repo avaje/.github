@@ -26,7 +26,7 @@
 
 # 
 
-Avaje is a set of Java libraries for building microservices. 
+Avaje is a set of Java libraries for building applications. 
 
 Most use annotation processing to make them exceptionally light and most importantly, _**reflection-free**_. The effective size of all the following libraries _combined_ barely takes up 0.8MB. (This is because most of the heavy lifting is done in annotation processors that are not included in your final jar)
 
