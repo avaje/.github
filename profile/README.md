@@ -36,7 +36,7 @@ Most use annotation processing to make them exceptionally light and most importa
 - [avaje-http-client](https://github.com/avaje/avaje-http/tree/master/http-client) (Wraps and enhances the built-in JDK HTTP client)
 - [avaje-jsonb](https://github.com/avaje/avaje-jsonb) ([Lightning fast](https://github.com/fabienrenaud/java-json-benchmark#users-model) compile-time json serialization)
 - [avaje-validator](https://github.com/avaje/avaje-validator) (Compile-time Pojo Validation)
-- [avaje-jex](https://github.com/avaje/avaje-jex) (Wraps the built-in JDK HttpServer)
+- [avaje-jex](https://github.com/avaje/avaje-jex) (Wraps the built-in JDK HttpServer to make it ergonomic)
 - [avaje-sigma](https://github.com/avaje/avaje-sigma) (Http Routing for AWS lambda)
 - [avaje-record-builder](https://github.com/avaje/avaje-record-builder) (Creates builders for JDK 17 records)
 - [avaje-spi-service](https://github.com/avaje/avaje-spi-service) (Adds META-INF/services entries for classes and validates module files)
