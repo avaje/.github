@@ -43,7 +43,6 @@ Most use annotation processing to make them exceptionally light and most importa
 - [avaje-spi-service](https://github.com/avaje/avaje-spi-service) (Adds META-INF/services entries for classes and validates module files)
 - [avaje-prisms](https://github.com/avaje/avaje-prisms) (Utility Lib for writing annotation processors)
 - [avaje-simple-logger](https://github.com/avaje/avaje-simple-logger) (Simple SLF4J logger for structured JSON logs to System out)
-- 
 General information:
 * The project webpage and docs for the various libraries are at [avaje.io](https://avaje.io).
 * Chat/Ask questions on Discord: https://discord.gg/Qcqf9R27BR
