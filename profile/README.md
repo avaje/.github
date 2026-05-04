@@ -47,5 +47,6 @@ Most use annotation processing to make them exceptionally light and most importa
 General information:
 * The project webpage and docs for the various libraries are at [avaje.io](https://avaje.io).
 * Chat/Ask questions on Discord: https://discord.gg/Qcqf9R27BR
+* [Avaje skills for AI coding agents](https://github.com/avaje/skills)
 * License summary: https://tldrlegal.com/license/apache-license-2.0-(apache-2.0)
 
